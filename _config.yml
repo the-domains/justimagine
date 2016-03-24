@@ -1,0 +1,28 @@
+name: Justimagine
+favicon: null
+layout_spectrum: 0.7983815534971654
+typography_spectrum: 0.702909508952871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43665499915368855
+  lightness: 0.9118823260068893
+  saturation: 0.325423632748425
+  rhythmicContrast: 0.37398457806557417
+purpose: []
